@@ -5,6 +5,8 @@ Reddit 评级算法的工作原理
 
 译者： `Tiezhen WANG <https://github.com/wangtz>`_ 
 
+Author: 
+
 .. figure:: http://amix.dk/uploads/reddit.png
    :align: center
    :alt: Reddit Icon
